@@ -2,8 +2,6 @@
 
 namespace App\Presentation\Http;
 
-use;
-use;
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
 class Kernel extends HttpKernel
